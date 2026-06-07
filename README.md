@@ -94,7 +94,7 @@ An interactive cat breed explorer built with vanilla JavaScript, Fetch, and Axio
 
 ## Notes
 
-- Not all breeds have images available — the code handles empty responses gracefully.
+- Not all breeds have images available the code handles empty responses gracefully.
 - The Malayan breed is a known edge case worth testing.
 - `favourite()` is exported because `Carousel.js` binds it to the heart button on each carousel item.
 - Error handling is a known improvement area for future iterations.
